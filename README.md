@@ -1,6 +1,9 @@
 # car price prediction with linear regression 
 
 ### Dateset link: https://www.kaggle.com/datasets/aminesnoussi/carprice-assignmentcsv
+### Dateset link: https://www.kaggle.com/datasets/uciml/glass?select=glass.csv
+### Dateset link: https://www.kaggle.com/datasets/rakeshrau/social-network-ads?select=Social_Network_Ads.csv
+                  
 
 ### I've uploaded a dataset file and python model code to these repositories.
 
